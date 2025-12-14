@@ -1,6 +1,6 @@
 # Pivotrics DSA Assessment
 
-## 📋 Project Overview
+## 📋 Assessment Overview
 
 This repository contains solutions to 8 Data Structures and Algorithms problems as part of the Pivotrics technical assessment. Each solution is implemented in Java following best practices and clean code principles.
 
