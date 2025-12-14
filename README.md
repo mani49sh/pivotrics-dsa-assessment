@@ -296,8 +296,6 @@ This project is submitted as part of a technical assessment for Pivotrics.
 
 - Problem statements provided by Pivotrics
 - Solutions implemented following industry best practices
-- Optimized for both time and space complexity
-
 ---
 
 **Note:** All solutions accept user input dynamically and do not use hardcoded values. Each problem can be run independently without dependencies on other files.
